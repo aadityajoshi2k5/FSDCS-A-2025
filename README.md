@@ -1,2 +1,2 @@
-# FSDCS-B-2025
-Welcome to FSD training
+# FSDCS-A-2025
+FSD training
